@@ -8,7 +8,7 @@ import * as Icon from "react-feather";
 export default function Home() {
   return (
     <div className="h-auto">
-      <HeadTitle title="Home" />
+      <HeadTitle title="Sayurku" />
       <div className="bg-green-600 h-15 w-full">
         <Container>
           <div className="py-4">
@@ -87,74 +87,101 @@ export default function Home() {
           <div className="content-center grid overflow-hidden grid-cols-4 grid-rows-2 gap-2 grid-flow-row">
             <div className="box flex items-center justify-center text-black">
               <div>
-                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1599559720316_scale_500x500_85_color_not_blur_7La.jpg" />
-                <p className="text-sm text-center m-0">Semua Produk</p>
+                <div className="w-10 h-10 lg:w-14 lg:h-14 relative m-auto">
+                  <img
+                    className="w-full h-full object-cover"
+                    src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1599559720316_scale_500x500_85_color_not_blur_7La.jpg"
+                  />
+                </div>
+                <p className="text-sm text-center mt-2">Semua Produk</p>
               </div>
             </div>
             <div className="box flex items-center justify-center text-black">
               <div>
-                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1631102611565_scale_500x500_85_color_not_blur_VjM.jpg" />
-                <p className="text-sm text-center m-0">Terbaru</p>
+                <div className="w-10 h-10 lg:w-14 lg:h-14 relative m-auto">
+                  <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1631102611565_scale_500x500_85_color_not_blur_VjM.jpg" />
+                </div>
+                <p className="text-sm text-center mt-2">Terbaru</p>
               </div>
             </div>
             <div className="box flex items-center justify-center text-black">
               <div>
-                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1626842372514_scale_500x500_85_color_not_blur_dPY.jpg" />
-                <p className="text-sm text-center m-0">Ibu & Anak</p>
+                <div className="w-10 h-10 lg:w-14 lg:h-14 relative m-auto">
+                  <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1626842372514_scale_500x500_85_color_not_blur_dPY.jpg" />
+                </div>
+                <p className="text-sm text-center mt-2">Ibu & Anak</p>
               </div>
             </div>
             <div className="box flex items-center justify-center text-black">
               <div>
-                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391202476_scale_500x500_85_color_not_blur_Laq.jpg" />
-                <p className="text-sm text-center m-0">Dapur</p>
+                <div className="w-10 h-10 lg:w-14 lg:h-14 relative m-auto">
+                  <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391202476_scale_500x500_85_color_not_blur_Laq.jpg" />
+                </div>
+                <p className="text-sm text-center mt-2">Dapur</p>
               </div>
             </div>
             <div className="box flex items-center justify-center text-black">
               <div>
-                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391821065_scale_500x500_85_color_not_blur_sap.jpg" />
-                <p className="text-sm text-center m-0">Beras & Mie</p>
+                <div className="w-10 h-10 lg:w-14 lg:h-14 relative m-auto">
+                  <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391821065_scale_500x500_85_color_not_blur_sap.jpg" />
+                </div>
+                <p className="text-sm text-center mt-2">Beras & Mie</p>
               </div>
             </div>
             <div className="box flex items-center justify-center text-black">
               <div>
-                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1574841564376_scale_500x500_85_color_not_blur_T5b.jpg" />
-                <p className="text-sm text-center m-0">Susu & Telur</p>
+                <div className="w-10 h-10 lg:w-14 lg:h-14 relative m-auto">
+                  <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1574841564376_scale_500x500_85_color_not_blur_T5b.jpg" />
+                </div>
+                <p className="text-sm text-center mt-2">Susu & Telur</p>
               </div>
             </div>
             <div className="box flex items-center justify-center text-black">
               <div>
-                <img src="https://ik.imagekit.io/dcjlghyytp1/4ee614930f86a0352cb82a33c44f17a0?tr=f-auto" />
-                <p className="text-sm text-center m-0">Organik</p>
+                <div className="w-10 h-10 lg:w-14 lg:h-14 relative m-auto">
+                  <img src="https://ik.imagekit.io/dcjlghyytp1/4ee614930f86a0352cb82a33c44f17a0?tr=f-auto" />
+                </div>
+                <p className="text-sm text-center mt-2">Organik</p>
               </div>
             </div>
             <div className="box flex items-center justify-center text-black">
               <div>
-                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391970896_scale_500x500_85_color_not_blur_2U2.jpg" />
-                <p className="text-sm text-center m-0">Makanan Ringan</p>
+                <div className="w-10 h-10 lg:w-14 lg:h-14 relative m-auto">
+                  <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391970896_scale_500x500_85_color_not_blur_2U2.jpg" />
+                </div>
+                <p className="text-sm text-center mt-2">Makanan Ringan</p>
               </div>
             </div>
             <div className="box flex items-center justify-center text-black">
               <div>
-                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391016007_scale_500x500_85_color_not_blur_6Ph.jpg" />
-                <p className="text-sm text-center m-0">Kuliner Dunia</p>
+                <div className="w-10 h-10 lg:w-14 lg:h-14 relative m-auto">
+                  <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391016007_scale_500x500_85_color_not_blur_6Ph.jpg" />
+                </div>
+                <p className="text-sm text-center mt-2">Kuliner Dunia</p>
               </div>
             </div>
             <div className="box flex items-center justify-center text-black">
               <div>
-                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391143099_scale_500x500_85_color_not_blur_hLE.jpg" />
-                <p className="text-sm text-center m-0">Pojok Minuman</p>
+                <div className="w-10 h-10 lg:w-14 lg:h-14 relative m-auto">
+                  <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391143099_scale_500x500_85_color_not_blur_hLE.jpg" />
+                </div>
+                <p className="text-sm text-center mt-2">Pojok Minuman</p>
               </div>
             </div>
             <div className="box flex items-center justify-center text-black">
               <div>
-                <img src="https://ik.imagekit.io/dcjlghyytp1/d339244b90bff370a17f523ef9d3616d?tr=f-auto" />
-                <p className="text-sm text-center m-0">Terlaris</p>
+                <div className="w-10 h-10 lg:w-14 lg:h-14 relative m-auto">
+                  <img src="https://ik.imagekit.io/dcjlghyytp1/d339244b90bff370a17f523ef9d3616d?tr=f-auto" />
+                </div>
+                <p className="text-sm text-center mt-2">Terlaris</p>
               </div>
             </div>
             <div className="box flex items-center justify-center text-black">
               <div>
-                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1572497285282_scale_500x500_85_color_not_blur_fTQ.jpg" />
-                <p className="text-sm text-center m-0">Spesial Promo</p>
+                <div className="w-10 h-10 lg:w-14 lg:h-14 relative m-auto">
+                  <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1572497285282_scale_500x500_85_color_not_blur_fTQ.jpg" />
+                </div>
+                <p className="text-sm text-center mt-2">Spesial Promo</p>
               </div>
             </div>
           </div>

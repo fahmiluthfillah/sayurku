@@ -47,36 +47,36 @@ export default function Home() {
           </div>
           <div>
             <img
-              src="https://asset.kompas.com/crops/pJb0BSgM3y0T8posgdDlKEzJkd4=/0x46:1000x546/750x500/data/photo/2019/10/16/5da6633bb8d6e.jpg"
+              src="https://asset.kompas.com/crops/ZV3pFsad4Ffi35Ss_ySKIsZoON0=/0x0:1000x667/750x500/data/photo/2021/07/27/60ff78475813b.jpg"
               alt="image2"
             />
             {/* <p className="legend">Image 2</p> */}
           </div>
           <div>
             <img
-              src="https://asset.kompas.com/crops/pJb0BSgM3y0T8posgdDlKEzJkd4=/0x46:1000x546/750x500/data/photo/2019/10/16/5da6633bb8d6e.jpg"
+              src="https://asset.kompas.com/crops/6k-Ksy5r1F7m3qD-NTPMOsO-2Us=/0x301:793x829/750x500/data/photo/2021/06/21/60cfe1e831c61.jpg"
               alt="image3"
             />
             {/* <p className="legend">Image 3</p> */}
           </div>
           <div>
             <img
-              src="https://asset.kompas.com/crops/pJb0BSgM3y0T8posgdDlKEzJkd4=/0x46:1000x546/750x500/data/photo/2019/10/16/5da6633bb8d6e.jpg"
-              alt="image3"
+              src="https://cdn.idntimes.com/content-images/community/2020/10/fromandroid-bcee00c01389d67afec75fe8d7925b71_600x400.jpg"
+              alt="image4"
             />
             {/* <p className="legend">Image 3</p> */}
           </div>
           <div>
             <img
-              src="https://asset.kompas.com/crops/pJb0BSgM3y0T8posgdDlKEzJkd4=/0x46:1000x546/750x500/data/photo/2019/10/16/5da6633bb8d6e.jpg"
-              alt="image3"
+              src="https://asset.kompas.com/crops/FxscTDC5Uqn2BNJ8Tyd12W9dQB8=/0x0:698x465/750x500/data/photo/2021/08/09/6110700f581f7.jpg"
+              alt="image5"
             />
             {/* <p className="legend">Image 3</p> */}
           </div>
           <div>
             <img
-              src="https://asset.kompas.com/crops/pJb0BSgM3y0T8posgdDlKEzJkd4=/0x46:1000x546/750x500/data/photo/2019/10/16/5da6633bb8d6e.jpg"
-              alt="image3"
+              src="https://asset.kompas.com/crops/RxtPSZMH6HwtqSE3uW5NDhnw4-c=/87x60:978x654/750x500/data/photo/2021/01/29/6013754c6e583.jpg"
+              alt="image6"
             />
             {/* <p className="legend">Image 3</p> */}
           </div>
@@ -85,41 +85,77 @@ export default function Home() {
       <div className="pt-3">
         <Container>
           <div className="content-center grid overflow-hidden grid-cols-4 grid-rows-2 gap-2 grid-flow-row">
-            <div className="box h-16 flex items-center justify-center text-black">
-              1
+            <div className="box flex items-center justify-center text-black">
+              <div>
+                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1599559720316_scale_500x500_85_color_not_blur_7La.jpg" />
+                <p className="text-sm text-center m-0">Semua Produk</p>
+              </div>
             </div>
             <div className="box flex items-center justify-center text-black">
-              2
+              <div>
+                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1631102611565_scale_500x500_85_color_not_blur_VjM.jpg" />
+                <p className="text-sm text-center m-0">Terbaru</p>
+              </div>
             </div>
             <div className="box flex items-center justify-center text-black">
-              3
+              <div>
+                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1626842372514_scale_500x500_85_color_not_blur_dPY.jpg" />
+                <p className="text-sm text-center m-0">Ibu & Anak</p>
+              </div>
             </div>
             <div className="box flex items-center justify-center text-black">
-              4
-            </div>
-            <div className="box h-16 flex items-center justify-center text-black">
-              5
-            </div>
-            <div className="box flex items-center justify-center text-black">
-              6
+              <div>
+                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391202476_scale_500x500_85_color_not_blur_Laq.jpg" />
+                <p className="text-sm text-center m-0">Dapur</p>
+              </div>
             </div>
             <div className="box flex items-center justify-center text-black">
-              7
+              <div>
+                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391821065_scale_500x500_85_color_not_blur_sap.jpg" />
+                <p className="text-sm text-center m-0">Beras & Mie</p>
+              </div>
             </div>
             <div className="box flex items-center justify-center text-black">
-              8
-            </div>
-            <div className="box h-16 flex items-center justify-center text-black">
-              9
-            </div>
-            <div className="box flex items-center justify-center text-black">
-              10
+              <div>
+                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1574841564376_scale_500x500_85_color_not_blur_T5b.jpg" />
+                <p className="text-sm text-center m-0">Susu & Telur</p>
+              </div>
             </div>
             <div className="box flex items-center justify-center text-black">
-              11
+              <div>
+                <img src="https://ik.imagekit.io/dcjlghyytp1/4ee614930f86a0352cb82a33c44f17a0?tr=f-auto" />
+                <p className="text-sm text-center m-0">Organik</p>
+              </div>
             </div>
             <div className="box flex items-center justify-center text-black">
-              12
+              <div>
+                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391970896_scale_500x500_85_color_not_blur_2U2.jpg" />
+                <p className="text-sm text-center m-0">Makanan Ringan</p>
+              </div>
+            </div>
+            <div className="box flex items-center justify-center text-black">
+              <div>
+                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391016007_scale_500x500_85_color_not_blur_6Ph.jpg" />
+                <p className="text-sm text-center m-0">Kuliner Dunia</p>
+              </div>
+            </div>
+            <div className="box flex items-center justify-center text-black">
+              <div>
+                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1632391143099_scale_500x500_85_color_not_blur_hLE.jpg" />
+                <p className="text-sm text-center m-0">Pojok Minuman</p>
+              </div>
+            </div>
+            <div className="box flex items-center justify-center text-black">
+              <div>
+                <img src="https://ik.imagekit.io/dcjlghyytp1/d339244b90bff370a17f523ef9d3616d?tr=f-auto" />
+                <p className="text-sm text-center m-0">Terlaris</p>
+              </div>
+            </div>
+            <div className="box flex items-center justify-center text-black">
+              <div>
+                <img src="https://storage.googleapis.com/dev-sayurbox.appspot.com/sku-lg/1572497285282_scale_500x500_85_color_not_blur_fTQ.jpg" />
+                <p className="text-sm text-center m-0">Spesial Promo</p>
+              </div>
             </div>
           </div>
         </Container>
@@ -136,15 +172,15 @@ export default function Home() {
             >
               <div className="relative w-full h-40 rounded">
                 <img
-                  src="https://asset.kompas.com/crops/pJb0BSgM3y0T8posgdDlKEzJkd4=/0x46:1000x546/750x500/data/photo/2019/10/16/5da6633bb8d6e.jpg"
+                  src="https://cdn.idntimes.com/content-images/community/2020/10/fromandroid-bcee00c01389d67afec75fe8d7925b71_600x400.jpg"
                   layout="fill"
                   className="object-cover rounded w-full h-full"
                 />
               </div>
               <div className="mt-5">
-                <span className="text-sm text-gray-500">Category</span>
-                <h4 className="text-xl mt-1 font-bold">Product Title</h4>
-                <p className="mt-2 text-blue-500">Rp. 100.000</p>
+                <span className="text-sm text-gray-500">Sayur</span>
+                <h4 className="text-xl mt-1 font-bold">Kuah Sop</h4>
+                <p className="mt-2 text-blue-500">Rp. 5.000</p>
               </div>
             </div>
             <div
@@ -153,15 +189,15 @@ export default function Home() {
             >
               <div className="relative w-full h-40 rounded">
                 <img
-                  src="https://asset.kompas.com/crops/pJb0BSgM3y0T8posgdDlKEzJkd4=/0x46:1000x546/750x500/data/photo/2019/10/16/5da6633bb8d6e.jpg"
+                  src="https://asset.kompas.com/crops/ZV3pFsad4Ffi35Ss_ySKIsZoON0=/0x0:1000x667/750x500/data/photo/2021/07/27/60ff78475813b.jpg"
                   layout="fill"
                   className="object-cover rounded w-full h-full"
                 />
               </div>
               <div className="mt-5">
-                <span className="text-sm text-gray-500">Category</span>
-                <h4 className="text-xl mt-1 font-bold">Product Title</h4>
-                <p className="mt-2 text-blue-500">Rp. 100.000</p>
+                <span className="text-sm text-gray-500">Sayur</span>
+                <h4 className="text-xl mt-1 font-bold">Kuah Lodeh</h4>
+                <p className="mt-2 text-blue-500">Rp. 6.000</p>
               </div>
             </div>
             <div
@@ -170,15 +206,15 @@ export default function Home() {
             >
               <div className="relative w-full h-40 rounded">
                 <img
-                  src="https://asset.kompas.com/crops/pJb0BSgM3y0T8posgdDlKEzJkd4=/0x46:1000x546/750x500/data/photo/2019/10/16/5da6633bb8d6e.jpg"
+                  src="https://asset.kompas.com/crops/RxtPSZMH6HwtqSE3uW5NDhnw4-c=/87x60:978x654/750x500/data/photo/2021/01/29/6013754c6e583.jpg"
                   layout="fill"
                   className="object-cover rounded w-full h-full"
                 />
               </div>
               <div className="mt-5">
-                <span className="text-sm text-gray-500">Category</span>
-                <h4 className="text-xl mt-1 font-bold">Product Title</h4>
-                <p className="mt-2 text-blue-500">Rp. 100.000</p>
+                <span className="text-sm text-gray-500">Sayur</span>
+                <h4 className="text-xl mt-1 font-bold">Cah Kangkung</h4>
+                <p className="mt-2 text-blue-500">Rp. 5.000</p>
               </div>
             </div>
           </div>

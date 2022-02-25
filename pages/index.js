@@ -85,40 +85,40 @@ export default function Home() {
       <div className="pt-3">
         <Container>
           <div className="content-center grid overflow-hidden grid-cols-4 grid-rows-2 gap-2 grid-flow-row">
-            <div className="box flex items-center justify-center text-black h-20 w-20">
+            <div className="box flex items-center justify-center text-black">
               1
             </div>
-            <div className="box flex items-center justify-center text-black h-20 w-20">
+            <div className="box flex items-center justify-center text-black">
               2
             </div>
-            <div className="box flex items-center justify-center text-black h-20 w-20">
+            <div className="box flex items-center justify-center text-black">
               3
             </div>
-            <div className="box flex items-center justify-center text-black h-20 w-20">
+            <div className="box flex items-center justify-center text-black">
               4
             </div>
-            <div className="box flex items-center justify-center text-black h-20 w-20">
+            <div className="box flex items-center justify-center text-black">
               5
             </div>
-            <div className="box flex items-center justify-center text-black h-20 w-20">
+            <div className="box flex items-center justify-center text-black">
               6
             </div>
-            <div className="box flex items-center justify-center text-black h-20 w-20">
+            <div className="box flex items-center justify-center text-black">
               7
             </div>
-            <div className="box flex items-center justify-center text-black h-20 w-20">
+            <div className="box flex items-center justify-center text-black">
               8
             </div>
-            <div className="box flex items-center justify-center text-black h-20 w-20">
+            <div className="box flex items-center justify-center text-black">
               9
             </div>
-            <div className="box flex items-center justify-center text-black h-20 w-20">
+            <div className="box flex items-center justify-center text-black">
               10
             </div>
-            <div className="box flex items-center justify-center text-black h-20 w-20">
+            <div className="box flex items-center justify-center text-black">
               11
             </div>
-            <div className="box flex items-center justify-center text-black h-20 w-20">
+            <div className="box flex items-center justify-center text-black">
               12
             </div>
           </div>
